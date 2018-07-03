@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-03T03:03:29.839Z</updated>
+  <updated>2018-07-03T10:21:18.873Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的收藏</title>
+    <link href="http://yoursite.com/2018/07/03/%E6%88%91%E7%9A%84%E6%94%B6%E8%97%8F/"/>
+    <id>http://yoursite.com/2018/07/03/我的收藏/</id>
+    <published>2018-07-03T06:48:02.000Z</published>
+    <updated>2018-07-03T10:21:18.873Z</updated>
+    
+    <content type="html"><![CDATA[<p>论坛</p><p><a href="https://www.v2ex.com/" target="_blank" rel="noopener">v2ex</a>P</p><p><a href="https://www.pin-cong.com/" target="_blank" rel="noopener">品葱</a></p><p><a href="https://chinadigitaltimes.net/" target="_blank" rel="noopener">中国数字空间</a></p><ul><li>我想</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;论坛&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;v2ex&lt;/a&gt;P&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pin-cong.com/&quot; target=&quot;_bl
+      
+    
+    </summary>
+    
+      <category term="收藏篇" scheme="http://yoursite.com/categories/%E6%94%B6%E8%97%8F%E7%AF%87/"/>
+    
+    
+      <category term="收藏" scheme="http://yoursite.com/tags/%E6%94%B6%E8%97%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>前端从入门到放弃</title>
