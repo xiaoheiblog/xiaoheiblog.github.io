@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-04T10:30:41.934Z</updated>
+  <updated>2018-07-05T14:17:40.414Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>生命不息，学习不断</title>
+    <title>心情</title>
     <link href="http://yoursite.com/2018/07/04/%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%96%AD/"/>
     <id>http://yoursite.com/2018/07/04/生命不息，学习不断/</id>
     <published>2018-07-04T10:30:41.000Z</published>
-    <updated>2018-07-04T10:30:41.934Z</updated>
+    <updated>2018-07-05T14:17:40.414Z</updated>
+    
+    <content type="html"><![CDATA[<p>搬到一个新的寝室，又是一次重新的开始，有时候我都怀疑，自己究竟能不能适应群体生活，希望一切都能变好。</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;搬到一个新的寝室，又是一次重新的开始，有时候我都怀疑，自己究竟能不能适应群体生活，希望一切都能变好。&lt;/p&gt;
+
+      
+    
     </summary>
     
+    
+      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
