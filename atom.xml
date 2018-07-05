@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-03T10:21:18.873Z</updated>
+  <updated>2018-07-04T10:30:41.934Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>生命不息，学习不断</title>
+    <link href="http://yoursite.com/2018/07/04/%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%96%AD/"/>
+    <id>http://yoursite.com/2018/07/04/生命不息，学习不断/</id>
+    <published>2018-07-04T10:30:41.000Z</published>
+    <updated>2018-07-04T10:30:41.934Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的收藏</title>
     <link href="http://yoursite.com/2018/07/03/%E6%88%91%E7%9A%84%E6%94%B6%E8%97%8F/"/>
     <id>http://yoursite.com/2018/07/03/我的收藏/</id>
     <published>2018-07-03T06:48:02.000Z</published>
-    <updated>2018-07-03T10:21:18.873Z</updated>
+    <updated>2018-07-04T10:28:23.033Z</updated>
     
-    <content type="html"><![CDATA[<p>论坛</p><p><a href="https://www.v2ex.com/" target="_blank" rel="noopener">v2ex</a>P</p><p><a href="https://www.pin-cong.com/" target="_blank" rel="noopener">品葱</a></p><p><a href="https://chinadigitaltimes.net/" target="_blank" rel="noopener">中国数字空间</a></p><ul><li>我想</li></ul>]]></content>
+    <content type="html"><![CDATA[<center>论坛</center><ul><li><p><a href="https://www.v2ex.com/" target="_blank" rel="noopener">v2ex</a></p></li><li><p><a href="https://www.pin-cong.com/" target="_blank" rel="noopener">品葱</a></p></li><li><p><a href="https://chinadigitaltimes.net/" target="_blank" rel="noopener">中国数字空间</a></p></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;论坛&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;v2ex&lt;/a&gt;P&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.pin-cong.com/&quot; target=&quot;_bl
+        &lt;center&gt;论坛&lt;/center&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;v2ex&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://w
       
     
     </summary>
